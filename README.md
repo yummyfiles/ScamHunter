@@ -2,62 +2,62 @@
 
 **Finding, documenting, and reporting online scams.**
 
-ScamHunter is a free, open-source community project for helping people recognize suspicious websites, document evidence, and report confirmed abuse to the right organizations.
+There are way too many scam sites out there, and it can feel like nobody does anything about them. ScamHunter is a free, open-source project for checking out suspicious websites, keeping track of evidence, and reporting actual problems to the right places.
 
-> **Important:** A strange-looking domain, a new website, or an unfamiliar business is not proof of a scam. Reports should be evidence-based, cautious, and fair.
+> **quick reminder:** a weird domain or a site you've never heard of doesn't automatically mean it's a scam. We need evidence, not just vibes.
 
-## Goals
+## What this project is for
 
-- Help people identify common signs of phishing, impersonation, and online fraud.
-- Document findings clearly so others can review the evidence.
-- Point contributors toward legitimate reporting channels and trusted threat-intelligence sources.
-- Encourage responsible research that does not put contributors or others at risk.
-- Keep the project free and accessible.
+- Spotting possible phishing, fake websites, impersonation, and online fraud.
+- Keeping notes and evidence so other people can review what was found.
+- Sharing useful threat-checking tools and legit places to report problems.
+- Researching without putting yourself or other people at risk.
+- Keeping everything free and accessible.
 
 ## Current status
 
-ScamHunter is in its early setup stage. The project is currently focused on responsible research guidelines, report templates, and trusted sources. Automated scanning tools may be added later, after their scope and safety are defined.
+ScamHunter is still getting set up. Right now, it's focused on research guidelines, report templates, and useful sources. Automated scanning might come later, once there's a safe and sensible way to do it.
 
-## How to contribute
+## Want to help?
 
-1. Read [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
-2. Gather evidence that can be observed without logging in, bypassing access controls, or interacting with suspicious functionality.
-3. Use the [report template](reports/REPORT_TEMPLATE.md) to record what you found.
-4. Submit reports only when there is a clear, specific reason for concern. Mark uncertainty honestly.
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md) first.
+2. Stick to evidence you can collect safely. Don't break into accounts or mess with a site's systems.
+3. Use the [report template](reports/REPORT_TEMPLATE.md) to write down what you found.
+4. If you're not sure, say you're not sure. Don't call something a confirmed scam without evidence.
 
-Do not publish personal information, credentials, private communications, or unverified accusations. Do not repeatedly submit the same report to multiple channels.
+Don't post people's private info, passwords, private messages, or accusations you can't back up. Also, don't spam the same report everywhere.
 
-## Where to report abuse
+## Where to report a site
 
-Use the reporting channel appropriate to the issue:
+These are useful starting points, depending on what you found:
 
-- [Google Safe Browsing — phishing report](https://safebrowsing.google.com/safebrowsing/report_phish/)
+- [Google Safe Browsing — report phishing](https://safebrowsing.google.com/safebrowsing/report_phish/)
 - [Microsoft — report an unsafe site](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site)
-- [FTC ReportFraud](https://reportfraud.ftc.gov/) — fraud affecting people in the United States
-- [FBI IC3](https://www.ic3.gov/) — internet crime reports in the United States
-- [CISA](https://www.cisa.gov/report) — report cybersecurity incidents and issues
+- [FTC ReportFraud](https://reportfraud.ftc.gov/) — fraud in the US
+- [FBI IC3](https://www.ic3.gov/) — internet crime reports in the US
+- [CISA](https://www.cisa.gov/report) — cybersecurity incidents and issues
 
-Check each organization's current guidance before submitting. ScamHunter is independent and is not affiliated with these organizations.
+Check the organization's current instructions before submitting anything. ScamHunter is independent and isn't officially connected to any of these organizations.
 
 ## Disclaimer
 
 Read [DISCLAIMER.md](DISCLAIMER.md) before using this project or relying on its findings. ScamHunter provides information for general educational and informational purposes only; it does not guarantee that a website is safe or malicious, and it is not legal, financial, or cybersecurity professional advice.
 
-## Repository map
+## Repo map
 
-- `reports/` — report guidance and the report template
-- `sources/` — reputable threat-intelligence and reporting resources
-- `CONTRIBUTING.md` — contribution guidelines
-- `SECURITY.md` — safe research and responsible disclosure guidance
+- `reports/` — report templates and notes
+- `sources/` — threat-checking tools and reporting links
+- `CONTRIBUTING.md` — how to contribute without making a mess
+- `SECURITY.md` — keeping research safe
 
-## Principles
+## The basics
 
-- **Evidence first:** suspicion is not confirmation.
-- **Minimize risk:** don't download unknown files, enter credentials, or disable security protections.
-- **Respect boundaries:** no unauthorized access, exploitation, or disruption.
-- **Protect people:** redact personal and sensitive information.
-- **Be transparent:** record sources, dates, limitations, and confidence.
+- **Evidence first.** Suspicious doesn't automatically mean guilty.
+- **Stay safe.** Don't download random files, enter your info, or turn off security protections.
+- **Don't cross the line.** No unauthorized access, exploiting stuff, or disrupting sites.
+- **Protect people.** Keep private and sensitive info out of reports.
+- **Be honest.** Include sources, dates, limitations, and how confident you actually are.
 
 ## License
 
-No license has been selected yet. Until one is added, the repository should not be treated as granting general permission to reuse, modify, or redistribute its contents.
+No license has been picked yet. Until one is added, don't assume this repo gives permission to reuse, modify, or redistribute its contents.
