@@ -1,39 +1,39 @@
-# Website Investigation Report
+# Website Report
 
-> Copy this template for a new finding. Do not fill it with guesses or publish sensitive personal information.
+> Copy this for a new finding. Stick to what you actually know — no guessing, and don't include private or sensitive info.
 
-## Summary
+## Quick details
 
 - **Domain or URL:**
-- **Date observed (with time zone):**
-- **Status:** Suspected / Evidence found / Reported to provider / Confirmed by a reliable source / Inconclusive
+- **Date and time seen (include time zone if possible):**
+- **Status:** Suspected / Evidence found / Reported / Confirmed by a reliable source / Still unclear
 - **Confidence:** Low / Medium / High
-- **Category:** Suspected phishing / Impersonation / Fraudulent offer / Malware distribution / Other
+- **Type:** Possible phishing / Impersonation / Suspicious offer / Possible malware / Other
 
-## What I observed
+## What happened?
 
-Describe the specific behavior or content that raised concern. Separate direct observations from assumptions.
+What did you actually see that raised a red flag? Keep observations separate from guesses.
 
 ## Evidence
 
-- **Evidence source(s):**
+- **Where did the evidence come from?**
 - **Relevant page or path:**
-- **What the evidence shows:**
-- **Limitations or alternative explanations:**
+- **What does it show?**
+- **Anything it doesn't prove, or another possible explanation?**
 
-Do not attach executable files, stolen data, credentials, private messages, or unredacted personal information.
+Don't attach executable files, stolen data, passwords, private messages, or unredacted personal info.
 
-## Actions taken
+## What have you done so far?
 
-- **Reputation checks performed:**
-- **Official report submitted to (if any):**
-- **Date submitted:**
-- **Reference number (only if safe to share):**
+- **Reputation checks used:**
+- **Reported to (if anyone):**
+- **Date reported:**
+- **Reference number (only if it's safe to share):**
 
 ## Follow-up
 
-Record corrections, additional reliable sources, or outcomes. Remove or update claims that are disproven.
+Add corrections, reliable new sources, or updates here. If something turns out to be wrong, update the report.
 
 ---
 
-Reminder: a suspicious signal is not proof of a scam. Keep the language factual and proportionate to the evidence.
+**Remember:** a red flag isn't proof by itself. Keep it factual, and don't claim more than the evidence supports.
