@@ -19,8 +19,9 @@ This is the ScamHunter toolbox: places to check public threat reports, research 
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) — public malware-analysis reports and sandbox analysis.
 - [ANY.RUN](https://any.run/) — interactive malware sandbox and analysis reports.
 - [CyberChef](https://gchq.github.io/CyberChef/) — local-in-browser transformations and decoding for data you already have a legitimate reason to inspect.
+- [VirtualBox](https://www.virtualbox.org/), [KVM/QEMU](https://www.qemu.org/), and [GNOME Boxes](https://apps.gnome.org/Boxes/) — options for running a separate research environment when one is actually needed.
 
-**Safety note:** Don't download suspicious files just to investigate them, and don't run malware on your everyday computer. Public sandboxes and scanners may share submitted files, URLs, and results with other users or security partners. Never upload private documents, personal images, credentials, or confidential URLs without understanding the service's data-sharing policy.
+**Safety note:** Don't download suspicious files just to investigate them, and don't run malware on your everyday computer. If you need a VM, disable shared folders and clipboard, avoid unnecessary USB access, keep snapshots, and isolate networking carefully. A VM is an extra layer, not a guarantee that malware can't escape. Public sandboxes and scanners may share submitted files, URLs, and results with other users or security partners. Never upload private documents, personal images, credentials, or confidential URLs without understanding the service's data-sharing policy.
 
 ## Privacy tools
 
