@@ -16,6 +16,7 @@ Here are some places to check a suspicious URL and report it if there's a real r
 - [VirusTotal](https://www.virustotal.com/) — checks URL and file reputation. Read its privacy and sharing policies before submitting anything sensitive.
 - [URLhaus](https://urlhaus.abuse.ch/) — information about URLs used to distribute malware.
 - [PhishTank](https://phishtank.org/) — community-submitted phishing data.
+- [OpenPhish.eu](https://www.openphish.eu/) — community phishing reports and a public database. Check each entry's verification status; unverified submissions are only leads, not proof.
 
 ## A few things to keep in mind
 
