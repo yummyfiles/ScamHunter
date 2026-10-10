@@ -1,9 +1,9 @@
 # Reports
 
-This directory contains report-writing guidance and templates.
+This folder has the template and notes for documenting suspicious websites.
 
-Before adding a report, review [CONTRIBUTING.md](../CONTRIBUTING.md) and [SECURITY.md](../SECURITY.md).
+Before adding a report, read [CONTRIBUTING.md](../CONTRIBUTING.md) and [SECURITY.md](../SECURITY.md).
 
-Only include findings with a clear, documented basis. Keep allegations proportional to the evidence, distinguish suspicion from confirmation, and do not include personal data, credentials, private communications, or unsafe files.
+Only include findings you have an actual reason to be concerned about. Explain what you saw, don't overstate what it proves, and leave out private info, passwords, private messages, and unsafe files.
 
-The template is at [REPORT_TEMPLATE.md](REPORT_TEMPLATE.md). It is a documentation aid, not a guarantee that a report is correct or that a third party will take action.
+Use [REPORT_TEMPLATE.md](REPORT_TEMPLATE.md) to get started. It's just a way to keep notes organized — it doesn't guarantee that every finding is correct or that a platform will take action.
