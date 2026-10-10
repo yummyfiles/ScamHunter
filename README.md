@@ -35,7 +35,7 @@ A listing in a public feed is evidence that the feed reported something; it isn'
 - For sensitive cases, document only what's necessary: public source references, dates, relevant domains or indicators, and a clear description of the risk.
 - Don't harass people, encourage retaliation, or make claims you can't support.
 - If you're not sure, say you're not sure.
-- For any task that genuinely needs a test environment, read the [VM safety guide](research/VM-SAFETY.md) first. A VM is an extra layer, not a guarantee of containment.
+- Use the tools in [sources/](sources/README.md) responsibly. If a task genuinely needs a VM, configure it carefully: disable shared folders and clipboard, avoid unnecessary USB access, and isolate networking. A VM is an extra layer, not a guarantee of containment.
 
 ## Current status
 
@@ -68,9 +68,8 @@ Read [DISCLAIMER.md](DISCLAIMER.md) before using this project or relying on its 
 ## Repo map
 
 - `research/` — leads we're checking and notes on what we actually know
-- [VM safety guide](research/VM-SAFETY.md) — extra isolation precautions for research environments
 - `reports/` — report templates and notes
-- `sources/` — threat-checking tools and reporting links
+- `sources/` — threat-checking tools, privacy tools, virtualization options, and reporting links
 - `CONTRIBUTING.md` — how to contribute without making a mess
 - `SECURITY.md` — keeping research safe
 - `DISCLAIMER.md` — the project's formal disclaimer
