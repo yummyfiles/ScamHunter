@@ -45,6 +45,7 @@ Read [DISCLAIMER.md](DISCLAIMER.md) before using this project or relying on its 
 
 ## Repo map
 
+- `research/` — leads we're checking and notes on what we actually know
 - `reports/` — report templates and notes
 - `sources/` — threat-checking tools and reporting links
 - `CONTRIBUTING.md` — how to contribute without making a mess
