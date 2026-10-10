@@ -25,7 +25,7 @@ We try to separate what a source reports from what ScamHunter has actually check
 - **Unverified lead:** worth checking, but not independently confirmed yet.
 - **Resolved / inactive:** the reported activity appears to have stopped or the indicator is no longer active. That doesn't erase historical risk.
 
-A listing in a public feed is evidence that the feed reported something; it isn't automatically proof of every claim about the site. We don't promise that a website is safe just because we haven't found reports about it.
+A listing in a public feed is evidence that the feed reported something; it isn't automatically proof of every claim about a site. We don't promise that a website is safe just because we haven't found reports about it.
 
 ## Research rules
 
@@ -35,6 +35,7 @@ A listing in a public feed is evidence that the feed reported something; it isn'
 - For sensitive cases, document only what's necessary: public source references, dates, relevant domains or indicators, and a clear description of the risk.
 - Don't harass people, encourage retaliation, or make claims you can't support.
 - If you're not sure, say you're not sure.
+- For any task that genuinely needs a test environment, read the [VM safety guide](research/VM-SAFETY.md) first. A VM is an extra layer, not a guarantee of containment.
 
 ## Current status
 
@@ -67,6 +68,7 @@ Read [DISCLAIMER.md](DISCLAIMER.md) before using this project or relying on its 
 ## Repo map
 
 - `research/` — leads we're checking and notes on what we actually know
+- [VM safety guide](research/VM-SAFETY.md) — extra isolation precautions for research environments
 - `reports/` — report templates and notes
 - `sources/` — threat-checking tools and reporting links
 - `CONTRIBUTING.md` — how to contribute without making a mess
