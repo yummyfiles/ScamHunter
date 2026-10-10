@@ -1,25 +1,25 @@
 # Security Policy
 
-ScamHunter is a community research and awareness project. Safety, privacy, and responsible reporting take priority over collecting more findings.
+ScamHunter is about researching scam sites and helping people stay aware. Getting more reports isn't worth putting anyone's safety or privacy at risk.
 
-## Safe handling
+## Stay safe while researching
 
 - Treat suspicious links, pages, attachments, and downloads as untrusted.
-- Do not enter real credentials, personal information, or payment information.
-- Do not download or execute unknown files on your everyday device.
-- Keep your browser and operating system updated; do not disable security protections.
-- Avoid logging in, bypassing access controls, exploiting vulnerabilities, or disrupting a site.
-- Do not interact with suspected malicious infrastructure beyond what is necessary for safe, passive observation.
-- Do not publish private information, credentials, session tokens, or identifying details about victims.
+- Don't enter real passwords, personal details, or payment info.
+- Don't download or run unknown files on your everyday device.
+- Keep your browser and operating system updated. Don't turn off security protections.
+- Don't break into accounts, bypass access controls, exploit vulnerabilities, or disrupt websites.
+- Keep interactions with suspected malicious sites to safe, passive observation.
+- Never publish passwords, session tokens, private information, or details that identify victims.
 
-## Reporting a security issue in this project
+## Found a problem in ScamHunter itself?
 
-If you find a security or privacy issue in ScamHunter itself, avoid posting exploitable details or private data publicly. Contact the repository maintainer through GitHub using the safest available private channel. Include a concise description, impact, and steps to reproduce that do not expose real users or secrets.
+If you find a security or privacy issue in this project, please don't post exploitable details or private data publicly. Contact the repository maintainer through the safest available private channel on GitHub. Include a short description, the possible impact, and safe steps to reproduce it — without exposing real users or secrets.
 
-## Evidence and uncertainty
+## Evidence matters
 
-A domain name, certificate, hosting provider, registration date, or reputation score alone does not establish fraud. Record the evidence and its limitations. Treat automated detections as signals for human review, not as proof.
+A domain name, certificate, hosting provider, registration date, or reputation score by itself doesn't prove fraud. Write down what the evidence actually shows and what it can't tell you. Automated detections are a reason for a human to take a closer look, not proof on their own.
 
-## External reports
+## Reporting other sites
 
-For suspected phishing, fraud, or malicious websites, use the relevant official reporting organization. See [the project README](README.md#where-to-report-abuse) for starting points. Follow each organization's current instructions.
+For suspected phishing, fraud, or malicious websites, use the appropriate official reporting service. The [README](README.md#where-to-report-a-site) has some starting points. Check each organization's current instructions before sending a report.
