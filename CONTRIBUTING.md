@@ -1,48 +1,50 @@
 # Contributing to ScamHunter
 
-Thanks for helping make the internet safer. Contributions should be accurate, respectful, and safe for both researchers and website owners.
+Want to help out? Awesome. The goal is to make it easier to spot and report online scams without spreading bad info or putting anyone at risk.
 
-## Before submitting
+## Before you submit anything
 
-- Read [SECURITY.md](SECURITY.md).
-- Prefer official reporting channels and reputable threat-intelligence sources.
-- Describe observable facts separately from your interpretation.
-- Include when and how information was collected, where safe and appropriate.
-- Redact personal data, account details, tokens, email addresses of private individuals, and unrelated content.
+- Give [SECURITY.md](SECURITY.md) a read.
+- Use official reporting pages and reputable threat-checking sources when you can.
+- Keep what you actually saw separate from what you think it means.
+- Note when and how you collected the info, if it's safe to do so.
+- Remove private info, account details, tokens, and anything unrelated that shouldn't be public.
 
-## Website reports
+## Reporting a website
 
-Use [reports/REPORT_TEMPLATE.md](reports/REPORT_TEMPLATE.md) as a starting point.
+Start with the [report template](reports/REPORT_TEMPLATE.md).
 
-A report should include:
-- The exact URL or domain, where sharing it is safe and lawful.
-- Date observed (include time zone if relevant).
-- The behavior that raised concern.
-- Evidence and its source.
-- Whether the finding is confirmed, suspected, or inconclusive.
-- Any reporting action already taken.
+Try to include:
 
-Do not label a website a scam solely because it is new, unfamiliar, parked, broken, or uses an unusual domain name. Avoid definitive claims when evidence is incomplete.
+- The exact URL or domain, if it's safe and appropriate to share.
+- When you saw it (include the time zone if it matters).
+- What specifically looked suspicious.
+- Evidence and where it came from.
+- Whether it's suspected, supported by evidence, confirmed by a reliable source, or still unclear.
+- Any reports you've already submitted.
 
-## Safe research boundaries
+A site isn't automatically a scam just because it's new, unfamiliar, parked, broken, or has a weird domain. If the evidence doesn't prove it, don't present it as fact.
 
-Do not:
-- Attempt to log in using real or stolen credentials.
-- Submit personal information or payment details to test a suspicion.
-- Download or execute suspicious files on a normal device.
-- Bypass authentication, exploit vulnerabilities, scan aggressively, or disrupt services.
-- Threaten, harass, dox, or publicly accuse people without reliable evidence.
-- Automate submissions or flood reporting systems.
-- Republish leaked data or sensitive information.
+## Safety rules
 
-Use reputable reputation-checking services and official reporting forms when possible. If direct inspection is necessary, stop if it would require risky interaction or unauthorized access.
+Please **don't**:
+
+- Try logging in with real or stolen passwords.
+- Enter personal or payment info just to see what happens.
+- Download or run suspicious files on your everyday device.
+- Break past logins, exploit vulnerabilities, aggressively scan, or disrupt a site.
+- Threaten, harass, dox, or accuse people without reliable evidence.
+- Automate reports or spam reporting systems.
+- Share leaked data or other sensitive information.
+
+Use reputable reputation-checking services and official reporting forms when possible. If checking a site would mean doing something risky or accessing something you shouldn't, stop there.
 
 ## Pull requests and corrections
 
-- Keep changes focused and explain their purpose.
-- Provide links to authoritative sources for guidance or factual claims.
-- Clearly distinguish verified facts from hypotheses.
-- If you spot an error in a report, propose a correction with supporting evidence.
-- Respect requests to remove exposed personal information or correct demonstrably inaccurate material.
+- Keep changes focused and explain what they do.
+- Link reliable sources for factual claims.
+- Make it clear what's confirmed and what's just a theory.
+- If you find a mistake, suggest a correction and include evidence.
+- If private info got exposed or something is demonstrably wrong, flag it so it can be reviewed.
 
-Thank you for contributing responsibly.
+Thanks for helping out — just keep it accurate, fair, and safe.
