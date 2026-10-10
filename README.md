@@ -39,6 +39,10 @@ Use the reporting channel appropriate to the issue:
 
 Check each organization's current guidance before submitting. ScamHunter is independent and is not affiliated with these organizations.
 
+## Disclaimer
+
+Read [DISCLAIMER.md](DISCLAIMER.md) before using this project or relying on its findings. ScamHunter provides information for general educational and informational purposes only; it does not guarantee that a website is safe or malicious, and it is not legal, financial, or cybersecurity professional advice.
+
 ## Repository map
 
 - `reports/` — report guidance and the report template
