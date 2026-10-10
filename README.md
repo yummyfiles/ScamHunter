@@ -2,30 +2,30 @@
 
 **Finding, documenting, and reporting harmful websites and online activity.**
 
-ScamHunter isn't just about scams. It's a free, open-source project for researching websites and online services that can harm people, expose their information, spread malware, or trick them into doing something risky. The goal is to keep useful evidence and sources in one place so people can understand what's going on and report it responsibly.
+ScamHunter isn't just about scams. It's my free, open-source project for researching websites and online services that can harm people, expose their information, spread malware, or trick them into doing something risky. The goal is to keep useful evidence and sources in one place so people can understand what's going on and report it responsibly.
 
-> **quick reminder:** a weird domain, an unfamiliar site, or an accusation online doesn't automatically prove anything. We need evidence, not just vibes.
+> **quick reminder:** a weird domain, an unfamiliar site, or an accusation online doesn't automatically prove anything. I need evidence, not just vibes.
 
 ## What this project covers
 
 - **Scams and phishing:** fake stores, fraudulent giveaways, impersonation, phishing pages, deceptive ads, and redirect tricks.
-- **Non-consensual image sharing and exploitation:** sites that distribute people's images without permission or profit from that abuse. We don't repost the images themselves.
-- **Doxxing and personal-data exposure:** data-broker sites, exposed personal information, and databases or dumps that put people at risk. We don't mirror private data dumps or publish unnecessary personal details.
+- **Non-consensual image sharing and exploitation:** sites that distribute people's images without permission or profit from that abuse. I don't repost the images themselves.
+- **Doxxing and personal-data exposure:** data-broker sites, exposed personal information, and databases or dumps that put people at risk. I don't mirror private data dumps or publish unnecessary personal details.
 - **Malware and malicious infrastructure:** harmful downloads, malware-distribution URLs, botnet indicators, and other threats documented by public threat-intelligence sources.
 - **Dark-web and other high-risk services:** publicly documented services associated with stolen data, exploitation, illegal marketplaces, or other harmful activity. Research stays within safe and lawful boundaries.
 - **Other harmful sites and online activity:** anything else with credible evidence of harm, even if it doesn't fit neatly into one category.
 
-These are research categories, not automatic labels. A site should not be called harmful just because its name looks suspicious or someone made an accusation about it.
+These are research categories, not automatic labels. I won't call a site harmful just because its name looks suspicious or someone made an accusation about it.
 
-## How we document things
+## How I document things
 
-We try to separate what a source reports from what ScamHunter has actually checked. A useful record should include the source, date checked, evidence or reference, known limitations, and confidence level.
+I try to separate what a source reports from what I've actually checked. A useful record should include the source, date checked, evidence or reference, known limitations, and confidence level.
 
 - **Confirmed / corroborated:** credible evidence supports the specific claim, ideally from multiple independent sources or a reliable authoritative source.
 - **Unverified lead:** worth checking, but not independently confirmed yet.
 - **Resolved / inactive:** the reported activity appears to have stopped or the indicator is no longer active. That doesn't erase historical risk.
 
-A listing in a public feed is evidence that the feed reported something; it isn't automatically proof of every claim about a site. We don't promise that a website is safe just because we haven't found reports about it.
+A listing in a public feed is evidence that the feed reported something; it isn't automatically proof of every claim about a site. I can't promise that a website is safe just because I haven't found reports about it.
 
 ## Research rules
 
@@ -34,12 +34,12 @@ A listing in a public feed is evidence that the feed reported something; it isn'
 - Don't publish victims' private information, credentials, private messages, or copies of non-consensual images.
 - For sensitive cases, document only what's necessary: public source references, dates, relevant domains or indicators, and a clear description of the risk.
 - Don't harass people, encourage retaliation, or make claims you can't support.
-- If you're not sure, say you're not sure.
+- If I'm not sure, I'll say so.
 - Use the tools in [sources/](sources/README.md) responsibly. If a task genuinely needs a VM, configure it carefully: disable shared folders and clipboard, avoid unnecessary USB access, and isolate networking. A VM is an extra layer, not a guarantee of containment.
 
 ## Current status
 
-ScamHunter is still getting set up. Right now, it's focused on research guidelines, lead tracking, report templates, and useful sources. Automated scanning might come later, once there's a safe and sensible way to do it.
+ScamHunter is still getting set up. Right now, I'm working on research guidelines, lead tracking, report templates, and useful sources. Automated scanning might come later, once there's a safe and sensible way to do it.
 
 ## Want to help?
 
@@ -67,7 +67,7 @@ Read [DISCLAIMER.md](DISCLAIMER.md) before using this project or relying on its 
 
 ## Repo map
 
-- `research/` — leads we're checking and notes on what we actually know
+- `research/` — leads I'm checking and notes on what the evidence actually shows
 - `reports/` — report templates and notes
 - `sources/` — threat-checking tools, privacy tools, virtualization options, and reporting links
 - `CONTRIBUTING.md` — how to contribute without making a mess
